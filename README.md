@@ -1,2 +1,4 @@
 # linux-xv6
-Source code modifications of Linux xv6 system (Kernel)
+
+On existing xv6 OS, added feature of input history.
+Same as on modern Linux operating systems - to navigate through input history use up and down arrows.
