@@ -1,5 +1,3 @@
-# linux-xv6
-
 On existing xv6 OS, added feature of input history.
 To navigate through input history use SHIFT+UP and SHIFT+DOWN.
 -----------------------------------------------------------------------------------------------------
