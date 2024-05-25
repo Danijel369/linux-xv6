@@ -1,7 +1,6 @@
-On existing xv6 OS, added feature of input history.
+On existing xv6 OS, added feature is navigation through input history.
 To navigate through input history use SHIFT+UP and SHIFT+DOWN.
 -----------------------------------------------------------------------------------------------------
-
 Original project description:
 -----------------------------
 
